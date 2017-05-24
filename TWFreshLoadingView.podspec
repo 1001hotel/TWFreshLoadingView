@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "TWFreshLoadingView"
-  s.version      = "0.0.1"
+  s.version      = "0.8.0"
   s.summary      = "A Fresh loading view used on iOS."
   s.description  = <<-DESC
                     It is a Fresh loading view used on iOS, which implement by Objective-C
